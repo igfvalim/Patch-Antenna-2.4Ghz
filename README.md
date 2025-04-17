@@ -1,4 +1,4 @@
-#Patch Antenna 2.4Ghz
+# Patch Antenna 2.4Ghz
 Este trabalho tem como objetivo projetar e simular, no HFSS (Ansys), uma antena patch 
 retangular em tecnologia PCB, sintonizada para operar na frequência de 2,4 GHz, dentro da banda 
 S. A antena apresenta uma largura de banda aproximada de 20 MHz e excelente casamento de 
